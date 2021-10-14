@@ -1,0 +1,47 @@
+/* Project Wide */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  background-color: #CEE5D0;
+}
+
+/* Title */
+.title{
+  font-family: 'Press Start 2P', cursive;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  color: #FF7878;
+}
+
+/* Coloured Buttons */
+img{
+  filter: drop-shadow(5px 10px 5px #333);
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+}
+
+/* Game Over Effect */
+.game-over {
+  background-color: #E0C097;
+  opacity: 0.8;
+}
+
+/* Start Button */
+.startButton{
+  height: 50px;
+  width: 150px;
+  background-color: #FF7878;
+  border: none;
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+/* Footer */
+footer {
+  font-family: 'Press Start 2P', cursive;
+}
